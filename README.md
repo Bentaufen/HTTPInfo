@@ -1,5 +1,5 @@
 # HTTPInfo
-Fingerprint tool for website fingerprinting.
+Website fingerprint tool to be used during the information gathering phase of a penetration test.
 
 ### Usage example:
 
